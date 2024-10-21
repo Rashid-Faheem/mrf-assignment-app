@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Link from "next/link";
 
 export default function Home() {
@@ -8,7 +8,7 @@ export default function Home() {
       <div className="container mx-auto py-8 px-4 sm:px-6 lg:px-8 text-center"> 
       <div className="font-bold text-2xl">Hi!</div>
       <div className="font-bold text-5xl">
-         I'm M. Rashid Faheem
+         I&apos;m M. Rashid Faheem
          </div><div className="font-4xl font-bold">
         Software Developer
         </div>
