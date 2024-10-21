@@ -31,7 +31,7 @@ export default function RootLayout({
         <Navigation companyName="M. Rashid Faheem" />
         <main className="flex-grow">{children}</main>
         <footer className="bg-gray-800 text-white py-4 text-center">
-          <p>&copy; 2024 Portfolio Website. All Rights Reserved.</p>
+          <p>&copy; 2024 My Portfolio Website. All Rights Reserved.</p>
         </footer>
         </div>
       </body>
